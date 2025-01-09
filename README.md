@@ -1,11 +1,22 @@
 # Nodepay Autoreferral Bot
 Automatic referral script for Nodepay Account using captcha solver and proxies.
+
 ### Tools and components required
-1. Nodepay Account | Register: [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=43HG9DLooqGcwKj)
-2. Captcha Solvers API keys, you need to recharge credits | [2captcha.com](https://2captcha.com/?from=22391145) | [capmonster.cloud](https://capmonster.cloud/) | [anti-captcha.com](https://getcaptchasolution.com/hjyoilkbhd)
-(https://dashboard.ez-captcha.com/#/register?inviteCode=TvXBfsIZJGy) |[Recommended: Cheap EzCaptcha]
-3. VPS or RDP (OPTIONAL)
-4. Python version 3.10
+1. **Nodepay Account**
+   - Register: [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=43HG9DLooqGcwKj)
+
+2. **Captcha Solvers API Keys**
+   - [EzCaptcha](https://dashboard.ez-captcha.com/#/register?inviteCode=TvXBfsIZJGy) (Recommended: Cheap & Reliable)
+   - [2captcha.com](https://2captcha.com/?from=22391145)
+   - [capmonster.cloud](https://capmonster.cloud/)
+   - [anti-captcha.com](https://getcaptchasolution.com/hjyoilkbhd)
+   
+   *Note: You need to recharge credits for the captcha service*
+
+3. **VPS or RDP** (OPTIONAL)
+
+4. **Python version 3.10**
+
 # Installation
 - Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
 - For Unix:
